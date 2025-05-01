@@ -57,7 +57,7 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 <img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="600" />
 
 - The upper panel showed the tool buttons:
-   - Users can type the locations to select the beads.
+   - Locations to select the beads.
    - Switch button to switch promoter of the gene and whole selected gene.
    - Change the color of the selected beads
    - Clear the bead selections
