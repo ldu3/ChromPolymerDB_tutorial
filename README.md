@@ -56,6 +56,9 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 
 <img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="600" />
 
+- Switch between different Sample chains
+- Download the 5,000 3D single-cell chromatin chain position and beads distance matrix data
+- Add a second cell line to compare
 - The upper panel showed the tool buttons:
    - Locations to select the beads.
    - Switch button to switch promoter of the gene and whole selected gene.
@@ -79,4 +82,4 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 
 
 <!-- GETTING STARTED -->
-## Step 4. 
+## Step 4. Cell lines comparision
