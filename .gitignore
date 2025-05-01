@@ -1,0 +1,8 @@
+.DS_Store
+.node_modules
+/Data
+/Backend/venv
+/Backend/__pycache__
+/Backend/example_data
+/Backend/Folding_input
+.env
