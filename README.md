@@ -37,13 +37,13 @@ Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
    - Users can click and drag the heatmap to zoom in and out.
 - The lower panel showed the gene information in this region, users can select and click the gene to highlight it. Here we select MYC gene.
 
-#### After click  <img src="image/expand_button.png" alt="button" title="button" width="20" />  (Expand the heatmap view). We can check the FoldRec interactions in details with epigentic tracks from ENCODE
+#### By clicking  <img src="image/expand_button.png" alt="button" title="button" width="20" />  (Expand the heatmap view). We can check the FoldRec interactions in details with epigentic tracks from ENCODE
 
 <img src="image/FoldRec2_full.png" alt="FoldRec" title="FoldRec" width="600" />
 
-- The upper panel showed the tool buttons
+- The upper panel showed the tool buttons:
    - Scale bar to change the heatmap color scale 
-   - Swith Button to swich between FoldRec interactions and All HiC data
+   - Swith button to swich between FoldRec interactions and All HiC data
    - Tracks button to select epigenitic tracks from ENCODE or uplode local files
    - Downlode the figures
 - The middle panel showed the FoldRec interactions. Users can click the heatmap to highlight selected interations
@@ -53,5 +53,7 @@ Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
 ## Step 3. Generating the 3D single-cell chromatin structures
 
 After examining the FoldRec interactions, we can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures
+
+
 <!-- GETTING STARTED -->
 ## Step 4. 
