@@ -54,6 +54,7 @@ Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
 
 After examining the FoldRec interactions, users can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures
 
+<img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="600" />
 
 <!-- GETTING STARTED -->
 ## Step 4. 
