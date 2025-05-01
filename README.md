@@ -11,14 +11,18 @@ The spatial organization of the genome plays a fundamental role in gene regulati
 - Our database provides two ways to query the Hi-C data:
   1. Based on the cell line name and genomic location.
 
-     <img src="image/data_query.png" alt="data_query" title="data_query" width="1000" />
+     <img src="image/data_query_short.png" alt="data_query" title="data_query" width="1000" />
      
   2. Based on the cell line name and gene name.
 
-     <img src="image/data_query_gene.png" alt="data_query" title="data_query" width="1000" />
+     <img src="image/data_query_gene_short.png" alt="data_query" title="data_query" width="1000" />
 
+After entering all the information, click the <code style="color : Cyan">Show Heatmap</code>
 <!-- GETTING STARTED -->
 ## Step 2. Examine the FoldRec interactions
+
+Here we take IMR90 chr8:127,300,000-128,300,000 as an example
+
 <!-- GETTING STARTED -->
 ## Step 3. Generating the single-cell chromatin conformations
 <!-- GETTING STARTED -->
