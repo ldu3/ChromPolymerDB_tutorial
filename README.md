@@ -8,7 +8,14 @@ The spatial organization of the genome plays a fundamental role in gene regulati
 <!-- GETTING STARTED -->
 ## Step 1. Querying the Data
 
-<img src="image/main_page.png" alt="Main Page" title="Main Page" width="1000" />
+- Our database provides two ways to query the Hi-C data:
+  1. Based on the cell line name and genomic location.
+
+     <img src="image/data_query.png" alt="data_query" title="data_query" width="1000" />
+     
+  2. Based on the cell line name and gene name.
+
+     <img src="image/data_query_gene.png" alt="data_query" title="data_query" width="1000" />
 
 <!-- GETTING STARTED -->
 ## Step 2. Examine the FoldRec interactions
