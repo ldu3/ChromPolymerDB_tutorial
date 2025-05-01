@@ -52,7 +52,7 @@ Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
 <!-- GETTING STARTED -->
 ## Step 3. Generating the 3D single-cell chromatin structures
 
-After examining the FoldRec interactions, we can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures
+After examining the FoldRec interactions, users can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures
 
 
 <!-- GETTING STARTED -->
