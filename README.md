@@ -45,9 +45,9 @@ Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
    - Scale bar to change the heatmap color scale 
    - Swith button to swich between FoldRec interactions and All HiC data
    - Tracks button to select epigenitic tracks from ENCODE or uplode local files
-   - Downlode the figures
+   - Download the figures
 - The middle panel showed the FoldRec interactions. Users can click the heatmap to highlight selected interations
-- The lower panel is the igv epigenitic tracks. Users can select epigenitc tracks they are interested in to annotate the biological meaning of the interactions
+- The lower panel is the embeded igv epigenitic tracks. Users can select epigenitc tracks they are interested in to annotate the interactions
 
 <!-- GETTING STARTED -->
 ## Step 3. Generating the 3D single-cell chromatin structures
@@ -55,6 +55,28 @@ Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
 After examining the FoldRec interactions, users can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures
 
 <img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="600" />
+
+- The upper panel showed the tool buttons:
+   - Users can type the locations to select the beads.
+   - Switch button to switch promoter of the gene and whole selected gene.
+   - Change the color of the selected beads
+   - Clear the bead selections
+   - Restore the original view
+   - Download the 3D chromosome image. User can also change the background color the chains before download the image.
+   - Check the simulated Hi-C heatmap
+   - Generate pairwise distances for selected beads
+- The middle panel showed the simulated 3D single-cell chromatin structure.
+- The lower right panel showed the distance heatmap of this 3D single-cell chromatin structure.
+
+#### After selecting beads and clicking <code style="color : dark gray">Generate Distance</code>, the pairwise 3D distance and the distribution among 5,000 simulated structures of selected beads will show up。
+
+<img src="image/3D_distance.png" alt="FoldRec" title="FoldRec" width="600" />
+
+- The tool buttons:
+   - Restore the original view
+   - Download the selected beads and their distance
+   - Collapse the distance window
+
 
 <!-- GETTING STARTED -->
 ## Step 4. 
