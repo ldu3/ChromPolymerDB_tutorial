@@ -22,8 +22,9 @@ After entering all the information, click the <code style="color : Cyan">Show He
 ## Step 2. Examine the FoldRec interactions
 
 Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
-
+<p align="center">
 <img src="image/FoldRec_1_full.png" alt="FoldRec" title="FoldRec" width="600" />
+</p>
 
 - The upper panel showed the selected cell line and region. 
    - The tool buttons on the right are:
@@ -39,7 +40,9 @@ Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
 
 #### By clicking  <img src="image/expand_button.png" alt="button" title="button" width="20" />  (Expand the heatmap view). We can check the FoldRec interactions in details with epigentic tracks from ENCODE
 
+<p align="center">
 <img src="image/FoldRec2_full.png" alt="FoldRec" title="FoldRec" width="600" />
+</p>
 
 - The upper panel showed the tool buttons:
    - Scale bar to change the heatmap color scale 
@@ -54,7 +57,9 @@ Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
 
 After examining the FoldRec interactions, users can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures
 
-<img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="600" />
+<p align="center">
+<img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="400" />
+</p>
 
 - Switch between different Sample chains
 - Download the 5,000 3D single-cell chromatin chain position and beads distance matrix data
@@ -73,7 +78,11 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 
 #### After selecting beads and clicking <code style="color : dark gray">Generate Distance</code>, the pairwise 3D distance and the distribution among 5,000 simulated structures of selected beads will show up。
 
-<img src="image/3D_distance.png" alt="FoldRec" title="FoldRec" width="600" />
+
+
+<p align="center">
+  <img src="image/3D_distance.png" alt="FoldRec" title="FoldRec" width="400"/>
+</p>
 
 - The tool buttons:
    - Restore the original view
