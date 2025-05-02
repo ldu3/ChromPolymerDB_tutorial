@@ -91,7 +91,7 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 
 
 <!-- GETTING STARTED -->
-## Step 4. Cell lines comparision
+## Step 4. Comparision among cell lines
 
 ### FoldRec interactions comparision
 
