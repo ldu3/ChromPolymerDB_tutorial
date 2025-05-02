@@ -1,4 +1,4 @@
-# ChromPolymerDB_tutorial
+# ChromPolymerDB_Tutorial
 
 <!-- ABOUT THE PROJECT -->
 The spatial organization of the genome plays a fundamental role in gene regulation, replication, and other biological processes. High-throughput chromosome conformation capture (Hi-C) techniques have advanced our understanding of genome architecture, but they primarily produce 2D, population-averaged data, limiting insights into individual cell chromatin structures. To bridge this gap, this project introduces a computational method and web-based platform designed for high-resolution visualization and analysis of single-cell 3D chromatin conformations.
@@ -76,7 +76,7 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 - The middle panel showed the simulated 3D single-cell chromatin structure.
 - The lower right panel showed the distance heatmap of this 3D single-cell chromatin structure.
 
-#### After selecting beads and clicking <code style="color : dark gray">Generate Distance</code>, the pairwise 3D distance and the distribution among 5,000 simulated structures of selected beads will show up。
+#### After selecting beads and clicking <code style="color : dark gray">Generate Distance</code>, the pairwise 3D distance and the distribution among 5,000 simulated structures of selected beads will show up. 
 
 
 
@@ -92,3 +92,7 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 
 <!-- GETTING STARTED -->
 ## Step 4. Cell lines comparision
+
+### FoldRec interactions comparision
+
+### 3D chromatin structures comparision 
