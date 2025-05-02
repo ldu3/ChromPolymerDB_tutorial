@@ -21,7 +21,7 @@ After entering all the information, click the <code style="color : Cyan">Show He
 <!-- GETTING STARTED -->
 ## Step 2. Examine the FoldRec interactions
 
-Here we take IMR90 chr8:127,300,000-128,300,000 as an example.
+Here we took IMR90 chr8:127,600,000-128,300,000 as an example.
 <p align="center">
 <img src="image/FoldRec_1_full.png" alt="FoldRec" title="FoldRec" width="600" />
 </p>
@@ -95,4 +95,20 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 
 ### FoldRec interactions comparision
 
+By clicking the + on the right of the data query bar. Users can select other cell lines to do the FoldRec interactions comparision.
+
+<p align="center">
+<img src="image/FoldRec_comparision_data_query.png" alt="FoldRec" title="FoldRec" width="600" />
+</p>
+
+<p align="center">
+<img src="image/FoldRec_comparision.png" alt="FoldRec" title="FoldRec" width="600" />
+</p>
+
 ### 3D chromatin structures comparision 
+
+By clicking the + on the right of the chromatin structure window. Users can select other cell lines to do the chromatin struction comparision.
+
+<p align="center">
+<img src="image/chromatin_structure_comparision.png" alt="FoldRec" title="FoldRec" width="600" />
+</p>
