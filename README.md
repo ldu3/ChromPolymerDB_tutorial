@@ -130,6 +130,6 @@ All structure data of selected region can be downloaded and do the downstream an
 <img src="image/download_data.png" alt="FoldRec" title="FoldRec" width="200" />
 </p>
 
-### [Structure clustering](scr/clustering.ipynb)
+- [Distance data clustering](scr/clustering.ipynb)
 
-### [Position data to PDB files for structure visualization via PyMol](scr/position_data_visualizaion.ipynb)
+- [Position data to PDB files for structure visualization via PyMol](scr/position_data_visualizaion.ipynb)
