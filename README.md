@@ -6,7 +6,7 @@ The spatial organization of the genome plays a fundamental role in gene regulati
 <img src="image/main_page.png" alt="Main Page" title="Main Page" width="1000" />
 
 <!-- GETTING STARTED -->
-## Step 1. Querying the Data
+## Querying the Data
 
 - Our database provides two ways to query the Hi-C data:
   1. Based on the cell line name and genomic location.
@@ -19,7 +19,7 @@ The spatial organization of the genome plays a fundamental role in gene regulati
 
 After entering all the information, click the <code style="color : Cyan">Show Heatmap</code>
 <!-- GETTING STARTED -->
-## Step 2. Examine the FoldRec interactions
+## Examine the FoldRec interactions
 
 Here we took IMR90 chr8:127,600,000-128,300,000 as an example.
 <p align="center">
@@ -53,7 +53,7 @@ Here we took IMR90 chr8:127,600,000-128,300,000 as an example.
 - The lower panel is the embeded igv epigenitic tracks. Users can select epigenitc tracks they are interested in to annotate the interactions
 
 <!-- GETTING STARTED -->
-## Step 3. Generating the 3D single-cell chromatin structures
+## Generating the 3D single-cell chromatin structures
 
 After examining the FoldRec interactions, users can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures
 
@@ -91,7 +91,7 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 
 
 <!-- GETTING STARTED -->
-## Step 4. Comparision among cell lines
+## Comparision among cell lines
 
 ### FoldRec interactions comparision
 
