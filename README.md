@@ -120,3 +120,16 @@ By clicking the + on the right of the chromatin structure window. Users can sele
 <p align="center">
 <img src="image/chromatin_structure_comparision.png" alt="FoldRec" title="FoldRec" width="600" />
 </p>
+
+<!-- GETTING STARTED -->
+## Structure data analysis
+
+All structure data of selected region can be downloaded and do the downstream analysis. Please check the following codes for more details
+
+<p align="center">
+<img src="image/download_data.png" alt="FoldRec" title="FoldRec" width="200" />
+</p>
+
+### [Structure clustering](scr/clustering.ipynb)
+
+### [Structure visualization](scr/position_data_visualizaion.ipynb)
