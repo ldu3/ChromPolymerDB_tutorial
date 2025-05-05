@@ -50,7 +50,15 @@ Here we took IMR90 chr8:127,600,000-128,300,000 as an example.
    - Tracks button to select epigenitic tracks from ENCODE or uplode local files
    - Download the figures
 - The middle panel showed the FoldRec interactions. Users can click the heatmap to highlight selected interations
-- The lower panel is the embeded igv epigenitic tracks. Users can select epigenitc tracks they are interested in to annotate the interactions
+- The lower panel is the embeded igv epigenitic tracks. Users can search and select or upload their own epigenitc tracks data they are interested in to annotate the interactions.
+
+<p align="center">
+<img src="image/tracks.png" alt="FoldRec" title="FoldRec" width="200" />
+</p>
+
+<p align="center">
+<img src="image/tracks_details.png" alt="FoldRec" title="FoldRec" width="400" />
+</p>
 
 <!-- GETTING STARTED -->
 ## Generating the 3D single-cell chromatin structures
@@ -58,7 +66,7 @@ Here we took IMR90 chr8:127,600,000-128,300,000 as an example.
 After examining the FoldRec interactions, users can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures
 
 <p align="center">
-<img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="400" />
+<img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="500" />
 </p>
 
 - Switch between different Sample chains
