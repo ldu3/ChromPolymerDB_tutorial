@@ -71,7 +71,7 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 </p>
 
 - The Sample 0 (Ens.Rep.) shows the most representative single-cell structure (highest correlation with average) 
-- Switch between simulated single cell chromatain chains, users can also check selected samples based on the sample ID
+- Switch between simulated single cell chromatain chains, users can also examine selected samples based on the sample ID
 - Download 5,000 single-cell 3D chromatin chains, including positional coordinates and beads-to-beads distance matrices
 - Add an additional cell sample to do comparison
 - The upper panel shows the tool buttons:
