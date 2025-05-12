@@ -8,7 +8,7 @@ The spatial organization of the genome plays a fundamental role in gene regulati
 <!-- GETTING STARTED -->
 ## Querying the Data
 
-- Our database provides two ways to query the Hi-C data and corresponding single-cell chromatin structures:
+- There are two ways to query the Hi-C data and corresponding single-cell chromatin structures:
   1. Based on the cell line name and genomic location.
 
      <img src="image/data_query_short.png" alt="data_query" title="data_query" width="1000" />
