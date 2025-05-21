@@ -38,7 +38,7 @@ Here we take IMR90 chr8:127,600,000-128,300,000 as an example.
    - Users can click and drag the heatmap to zoom in and out.
 - The lower panel shows the informatins of all genes located in selected region, and users can select and click the gene to highlight it. Here we highlight MYC gene.
 
-#### By clicking  <img src="image/expand_button.png" alt="button" title="button" width="20" />  (Expand the heatmap view), users can check the FoldRec interactions in details with epigenetic tracks from the ENCODE Portal
+#### By clicking  <img src="image/expand_button.png" alt="button" title="button" width="20" />  (Expand the heatmap view), users can check the FoldRec interactions in details with epigenetic tracks from the ENCODE Portal or their own custom tracks 
 
 <p align="center">
 <img src="image/FoldRec2_full.png" alt="FoldRec" title="FoldRec" width="600" />
