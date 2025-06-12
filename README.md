@@ -19,15 +19,16 @@ ChromPolymerDB is a comprehensive and publicly accessible 3D chromatin structure
 
 After entering all the information, click <img src="image/show_heatmap.png" alt="button" title="button" width="100" />
 <!-- GETTING STARTED -->
-## Examine the FoldRec interactions
+## Examine 2D Contact Patterns (Hi-C experiment data + FoldRec Interactions)
 
 Here we take IMR90 chr8:127,600,000-128,300,000 as an example.
 <p align="center">
 <img src="image/FoldRec_1_full.png" alt="FoldRec" title="FoldRec" width="600" />
 </p>
 
-- The upper panel shows the selected cell line and the corresponding region. 
+- The upper panel shows the contact information within the corresponding region of the selected cell sample. 
    - The tool buttons on the right are:
+      - FoldRec interactions pairwise comparison.
       - Restore the original heatmap.
       - Expand the heatmap view.
       - Download FoldRec interaction data.
