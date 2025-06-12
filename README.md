@@ -23,7 +23,7 @@ After entering all the information, click <img src="image/show_heatmap.png" alt=
 
 Here we take IMR90 chr8:127,600,000-128,300,000 as an example.
 <p align="center">
-<img src="image/FoldRec_full1.png" alt="FoldRec" title="FoldRec" width="600" />
+<img src="image/FoldRec_full_1.png" alt="FoldRec" title="FoldRec" width="600" />
 </p>
 
 - The upper panel shows the contact information within the corresponding region of the selected cell sample. 
