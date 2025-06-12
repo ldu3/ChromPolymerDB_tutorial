@@ -108,7 +108,7 @@ After examining the 2D contact information, users can click  <img src="image/3D_
 <!-- GETTING STARTED -->
 ## Comparision among different cell samples
 
-### FoldRec interactions comparision
+### 2D interaction pattern comparision
 
 By clicking the + on the right of the data query bar. Users can select other cell samples to do the FoldRec interactions comparision.
 
