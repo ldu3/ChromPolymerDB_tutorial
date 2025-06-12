@@ -71,9 +71,10 @@ After examining the 2D contact information, users can click  <img src="image/3D_
 <p align="center">
 <img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="400" />
 </p>
-
-- The Sample 0 (Ens.Rep.) shows the most representative single-cell structure (highest correlation with average). 
-- Users can switch among all available structures or examine specific samples by entering a sample ID.
+<p align="center">
+  <img src="image/data_download.png" alt="Download_example" title="Download_example" width="400"/>
+</p>
+- The Sample 0 (Ens.Rep.) shows the most representative single-cell structure (highest correlation with average), and users can switch among all available structures or examine specific samples by entering a sample ID.
 - Download 5,000 single-cell 3D chromatin chains, including positional coordinates and beads-to-beads distance matrices.
 - Add an additional cell sample to do comparison.
 - The upper panel shows the tool buttons:
