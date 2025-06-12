@@ -71,9 +71,7 @@ After examining the 2D contact information, users can click  <img src="image/3D_
 <p align="center">
 <img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="400" />
 </p>
-<p align="center">
-  <img src="image/data_download.png" alt="Download_example" title="Download_example" width="400"/>
-</p>
+
 - The Sample 0 (Ens.Rep.) shows the most representative single-cell structure (highest correlation with average), and users can switch among all available structures or examine specific samples by entering a sample ID.
 - Download 5,000 single-cell 3D chromatin chains, including positional coordinates and beads-to-beads distance matrices.
 - Add an additional cell sample to do comparison.
@@ -139,7 +137,7 @@ By clicking the + on the right of the chromatin structure window. Users can sele
 All structure data of the selected region can be downloaded and do the downstream analysis. Please check the following codes for more details.
 
 <p align="center">
-<img src="image/download_data.png" alt="FoldRec" title="FoldRec" width="200" />
+  <img src="image/data_download.png" alt="Download_example" title="Download_example" width="400"/>
 </p>
 
 - [Distance data clustering](scr/clustering.ipynb)
