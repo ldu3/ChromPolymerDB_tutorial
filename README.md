@@ -89,6 +89,7 @@ After examining the 2D contact information, users can click  <img src="image/3D_
 
 
 #### After selecting beads and clicking <img src="image/generate_distance_logo.png" alt="button" title="button" width="120" /> , the pairwise 3D distance and the distribution among 5,000 simulated structures of selected beads will show up. 
+We disabled this button until minimum number of beads selection is made.
 
 <p align="center">
   <img src="image/generate_distance.png" alt="FoldRec" title="FoldRec" width="400"/>
