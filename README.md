@@ -42,7 +42,7 @@ Here we take IMR90 chr8:127,600,000-128,300,000 as an example.
 #### By clicking  <img src="image/expand_button.png" alt="button" title="button" width="20" />  (Expand the heatmap view), users can check the FoldRec interactions in details with epigenetic tracks from the ENCODE Portal or their own custom tracks 
 
 <p align="center">
-<img src="image/FoldRec2_full.png" alt="FoldRec" title="FoldRec" width="600" />
+<img src="image/FoldRec_2_full.png" alt="FoldRec" title="FoldRec" width="600" />
 </p>
 
 - The upper panel shows the tool buttons:
