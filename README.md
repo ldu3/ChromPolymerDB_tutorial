@@ -102,11 +102,6 @@ After examining the 2D contact information, users can click  <img src="image/3D_
    - Collapse the distance window.
 
 
-#### Users can download both bead structure data (position data) and bead distance data on our website. 
-
-<p align="center">
-  <img src="image/data_download.png" alt="Download_example" title="Download_example" width="400"/>
-</p>
 
 <!-- GETTING STARTED -->
 ## Comparision among different cell samples
@@ -133,8 +128,7 @@ By clicking the + on the right of the chromatin structure window. Users can sele
 
 <!-- GETTING STARTED -->
 ## Structure data analysis
-
-All structure data of the selected region can be downloaded and do the downstream analysis. Please check the following codes for more details.
+Both bead structure data (position data) and bead distance data of the selected region can be downloaded and do the downstream analysis. Please check the following codes for more details.
 
 <p align="center">
   <img src="image/data_download.png" alt="Download_example" title="Download_example" width="400"/>
