@@ -1,7 +1,7 @@
 # ChromPolymerDB_Tutorial
 
 <!-- ABOUT THE PROJECT -->
-ChromPolymerDB is a comprehensive and publicly accessible 3D chromatin structure database that provides large scale high resolution single-cell 3D chromatin structure data alongside an interactive web interface and integrated structural analytical toolkit. By enabling fine-scale, integrative, and single-cell-resolved structural genomics, researchers can easily use it for investigating the interplay between chromatin architecture and gene regulation and performing comparative 3D genomics.
+The three-dimensional (3D) organization of chromatin is well known to play an essential role in a wide range of biological functions. A deeper understanding of chromatin structures is crucial for decoding critical biology processes. To support the exploration of chromatin architecture, we developed ChromPolymerDB, a publicly accessible, high-resolution database of single-cell 3D chromatin structures reconstructed using polymer physics-based modeling of Hi-C data. This database covers a substantial number of single-cell chromatin structures at 5 kb resolution across 50 diverse human cell types and experimental conditions. It provides an interactive web interface with integrated spatial and structural analysis tools, enables multi-omics integration with gene expression, epigenetic marks, and other regulatory elements, and allows comparative analysis to identify structural rewiring events—such as enhancer hub emergence or loop remodeling—across conditions, developmental stages, or disease states. These innovations make ChromPolymerDB a powerful tool for researchers investigating the interplay between chromatin architecture and gene regulation and performing comparative 3D genomics.
 
 <img src="image/home_page.png" alt="Main Page" title="Main Page" width="1000" />
 
@@ -47,9 +47,9 @@ Here we take IMR90 chr8:127,600,000-128,300,000 as an example.
 
 - The upper panel shows the tool buttons:
    - Scale bar to change the heatmap color scale. 
-   - Swith button to swich between FoldRec and All HiC interactions.
+   - Swith button to swich between FoldRec and experiment Hi-C interactions.
    - Tracks button to select epigenitic tracks from ENCODE or upload local files.
-   - Refresh button to refresh the igv track viewer.
+   - Refresh button to refresh the igv track viewer. （If the tracks and the heatmap are misaligned, “Refresh” is needed.）
    - Download the figures (PDF/PNG).
 - The middle panel shows the FoldRec interactions. Users can click the heatmap to highlight the selected interactions.
 - The lower panel is the embedded IGV Epigenitic Track Viewer. Users can search and select epigenetic data from the ENCODE Portal or upload their own tracks to annotate the interactions.
@@ -63,7 +63,7 @@ Here we take IMR90 chr8:127,600,000-128,300,000 as an example.
 </p>
 
 <!-- GETTING STARTED -->
-## Generating the 3D single-cell chromatin structures
+## Exploring the 3D single-cell chromatin structures
 
 After examining the FoldRec interactions, users can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures.
 
@@ -72,7 +72,7 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 </p>
 
 - The Sample 0 (Ens.Rep.) shows the most representative single-cell structure (highest correlation with average). 
-- Switch between simulated single cell chromatain chains, users can also examine selected samples based on the sample ID.
+- Switch between simulated single cell chromatin chains, users can also examine selected samples based on the sample ID.
 - Download 5,000 single-cell 3D chromatin chains, including positional coordinates and beads-to-beads distance matrices.
 - Add an additional cell sample to do comparison.
 - The upper panel shows the tool buttons:
