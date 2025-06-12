@@ -66,14 +66,14 @@ Here we take IMR90 chr8:127,600,000-128,300,000 as an example.
 <!-- GETTING STARTED -->
 ## Exploring the 3D single-cell chromatin structures
 
-After examining the FoldRec interactions, users can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures.
+After examining the 2D contact information, users can click  <img src="image/3D_Structure.png" alt="button" title="button" width="80" />  to generate the 3D single-cell chromatin structures of the corresponding locus.
 
 <p align="center">
 <img src="image/single_cell_conformation.png" alt="FoldRec" title="FoldRec" width="400" />
 </p>
 
 - The Sample 0 (Ens.Rep.) shows the most representative single-cell structure (highest correlation with average). 
-- Switch between simulated single cell chromatin chains, users can also examine selected samples based on the sample ID.
+- Users can switch among all available structures or examine specific samples by entering a sample ID.
 - Download 5,000 single-cell 3D chromatin chains, including positional coordinates and beads-to-beads distance matrices.
 - Add an additional cell sample to do comparison.
 - The upper panel shows the tool buttons:
@@ -88,6 +88,7 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
 - The middle panel displays one of the simulated 3D single-cell chromatin structure. Users may interact with the model by clicking and dragging to examine its spatial organization.
 - The lower right panel showed the distance heatmap of this 3D single-cell chromatin structure.
 
+
 #### After selecting beads and clicking <img src="image/generate_distance.png" alt="button" title="button" width="120" /> , the pairwise 3D distance and the distribution among 5,000 simulated structures of selected beads will show up. 
 
 
@@ -101,6 +102,12 @@ After examining the FoldRec interactions, users can click  <img src="image/3D_St
    - Download the selected beads and their distance.
    - Collapse the distance window.
 
+
+#### Users can download both bead structure data (position data) and bead distance data on our website. 
+
+<p align="center">
+  <img src="image/data_download.png" alt="Download_example" title="Download_example" width="400"/>
+</p>
 
 <!-- GETTING STARTED -->
 ## Comparision among different cell samples
