@@ -88,7 +88,7 @@ After examining the 2D contact information, users can click  <img src="image/3D_
 - The lower right panel showed the distance heatmap of this 3D single-cell chromatin structure.
 
 
-#### After selecting beads and clicking <img src="image/generate_distance.png" alt="button" title="button" width="120" /> , the pairwise 3D distance and the distribution among 5,000 simulated structures of selected beads will show up. 
+#### After selecting beads and clicking <img src="image/generate_distance_logo.png" alt="button" title="button" width="120" /> , the pairwise 3D distance and the distribution among 5,000 simulated structures of selected beads will show up. 
 
 
 
@@ -128,7 +128,7 @@ By clicking the + on the right of the chromatin structure window. Users can sele
 
 <!-- GETTING STARTED -->
 ## Structure data analysis
-Both bead structure data (position data) and bead distance data of the selected region can be downloaded and do the downstream analysis. Please check the following codes for more details.
+Both bead structure data (position data) and bead distance data of the selected region can be downloaded and used for downstream analysis. Please check the following codes for more details.
 
 <p align="center">
   <img src="image/data_download.png" alt="Download_example" title="Download_example" width="400"/>
