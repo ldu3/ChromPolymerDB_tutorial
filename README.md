@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ChromPolymerDB is a comprehensive and publicly accessible 3D chromatin structure database that provides large scale high resolution single-cell 3D chromatin structure data alongside an interactive web interface and integrated structural analytical toolkit. By enabling fine-scale, integrative, and single-cell-resolved structural genomics, researchers can easily use it for investigating the interplay between chromatin architecture and gene regulation and performing comparative 3D genomics.
 
-<img src="image/main_page.png" alt="Main Page" title="Main Page" width="1000" />
+<img src="image/home_page.png" alt="Main Page" title="Main Page" width="1000" />
 
 <!-- GETTING STARTED -->
 ## Querying the Data
