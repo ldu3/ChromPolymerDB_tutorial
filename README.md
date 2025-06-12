@@ -90,8 +90,9 @@ After examining the 2D contact information, users can click  <img src="image/3D_
 
 #### After selecting beads and clicking <img src="image/generate_distance_logo.png" alt="button" title="button" width="120" /> , the pairwise 3D distance and the distribution among 5,000 simulated structures of selected beads will show up. 
 
-
-
+<p align="center">
+  <img src="image/generate_distance.png" alt="FoldRec" title="FoldRec" width="400"/>
+</p>
 <p align="center">
   <img src="image/3D_distance.png" alt="FoldRec" title="FoldRec" width="400"/>
 </p>
@@ -131,7 +132,7 @@ By clicking the + on the right of the chromatin structure window. Users can sele
 Both bead structure data (position data) and bead distance data of the selected region can be downloaded and used for downstream analysis. Please check the following codes for more details.
 
 <p align="center">
-  <img src="image/data_download.png" alt="Download_example" title="Download_example" width="400"/>
+  <img src="image/data_download.png" alt="FoldRec" title="FoldRec" width="400"/>
 </p>
 
 - [Distance data clustering](scr/clustering.ipynb)
