@@ -140,7 +140,7 @@ Both bead structure data (position data) and bead distance data of the selected 
 
 - [Position data to PDB files for structure visualization via PyMol](scr/position_data_visualizaion.ipynb)
 
-
+- [Multi-body contacts analysis](scr/multibody_contacts.R)
 
 
 <!-- GETTING STARTED -->
