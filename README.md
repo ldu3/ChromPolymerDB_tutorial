@@ -159,7 +159,7 @@ Step-by-step guide:
 wget https://hgdownload.cse.ucsc.edu/goldenpath/hg19/liftOver/hg19ToHg38.over.chain.gz
 # First round: liftOver the first anchors
 CrossMap bed hg19ToHg38.over.chain.gz hichipdb_GM12878_H3K27ac.bedpe hichipdb_GM12878_H3K27ac_hg38_1.bedp
-# Reformat to swap columns for the second anchors
+# Swap columns for the second anchors
 awk '{OFS="\t"}{print $4,$5,$6,$1,$2,$3,$7}' hichipdb_GM12878_H3K27ac_hg38_1.bedpe > hichipdb_GM12878_H3K27ac_hg38_2.bedpe
 # Second round: liftOver the second anchors
 CrossMap bed hg19ToHg38.over.chain.gz hichipdb_GM12878_H3K27ac_hg38_2.bedpe hichipdb_GM12878_H3K27ac_hg38.bedpe
@@ -167,5 +167,5 @@ CrossMap bed hg19ToHg38.over.chain.gz hichipdb_GM12878_H3K27ac_hg38_2.bedpe hich
 
 - Upload the resulting .bedpe file to ChromPolymerDB for visualization and further analysis.
 <p align="center">
-<img src="image/hichipdb.png" alt="HiChIPdb" title="HiChIPdb" width="600" />
+<img src="image/hichidb.png" alt="HiChIPdb" title="HiChIPdb" width="600" />
 </p>
