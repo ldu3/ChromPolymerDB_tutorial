@@ -142,6 +142,7 @@ Both bead structure data (position data) and bead distance data of the selected 
 
 
 
+
 <!-- GETTING STARTED -->
 ## Incorporating Data from Existing Chromatin Resources
 Users can download data from other publicly available chromatin databases and incorporate them into ChromPolymerDB for further analysis. Here we take HiChIPdb as an example.
