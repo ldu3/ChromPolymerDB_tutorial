@@ -151,6 +151,7 @@ Step-by-step guide:
 <p align="center">
 <img src="image/bedpe.png" alt="HiChIPdb" title="HiChIPdb" width="600" />
 </p>
+
 - Convert .bedpe files from hg19 to hg38.
 
 ```
@@ -163,3 +164,8 @@ awk '{OFS="\t"}{print $4,$5,$6,$1,$2,$3,$7}' hichipdb_GM12878_H3K27ac_hg38_1.bed
 # Second round: liftOver the second anchors
 CrossMap bed hg19ToHg38.over.chain.gz hichipdb_GM12878_H3K27ac_hg38_2.bedpe hichipdb_GM12878_H3K27ac_hg38.bedpe
 ```
+
+- Upload the resulting .bedpe file to ChromPolymerDB for visualization and further analysis.
+<p align="center">
+<img src="image/hichipdb.png" alt="HiChIPdb" title="HiChIPdb" width="600" />
+</p>
