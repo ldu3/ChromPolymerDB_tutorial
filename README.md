@@ -141,10 +141,18 @@ Both bead structure data (position data) and bead distance data of the selected 
 - [Position data to PDB files for structure visualization via PyMol](scr/position_data_visualizaion.ipynb)
 
 
+
 <!-- GETTING STARTED -->
 ## Incorporating Data from Existing Chromatin Resources
 Users can download data from other publicly available chromatin databases and incorporate them into ChromPolymerDB for further analysis. Here we take HiChIPdb as an example.
 Step-by-step guide:
 - Download the .csv file from HiChIPdb (https://health.tsinghua.edu.cn/hichipdb/download.php). For consistency, we recommend using the 5 kb resolution data.
 - Extract the columns: anchor1, anchor2, and qValue and Rreformat these columns into a .bedpe file, as shown in the figure below.
+<p align="center">
+<img src="image/bedpe.png" alt="HiChIPdb" title="HiChIPdb" width="600" />
+</p>
 - Convert .bedpe files from hg19 to hg38.
+   - wget https://hgdownload.cse.ucsc.edu/goldenpath/hg19/liftOver/hg19ToHg38.over.chain.gz
+   - CrossMap bed hg19ToHg38.over.chain.gz hichipdb_GM12878_H3K27ac.bedpe hichipdb_GM12878_H3K27ac_hg38_1.bedpe
+   - awk '{OFS="\t"}{print $4,$5,$6,$1,$2,$3,$7}' hichipdb_GM12878_H3K27ac_hg38_1.bedpe > hichipdb_GM12878_H3K27ac_hg38_2.bedpe
+   - CrossMap bed hg19ToHg38.over.chain.gz hichipdb_GM12878_H3K27ac_hg38_2.bedpe hichipdb_GM12878_H3K27ac_hg38.bedpe
