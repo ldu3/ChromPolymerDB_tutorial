@@ -175,3 +175,6 @@ CrossMap bed hg19ToHg38.over.chain.gz hichipdb_GM12878_H3K27ac_hg38_2.bedpe hich
 <!-- GETTING STARTED -->
 ## Contributing Your Data
 We warmly welcome users who wish to contribute their new datasets to be integrated into ChromPolymerDB. We accept a wide range of data types, including deeply sequenced bulk Hi-C (hg38), scHi-C, as well as other chromatin structure data generated from simulations or imaging. 
+- For bulk Hi-C data, we require the .hic file containing 5kb resultion data together with the corresponding nuclear volume.
+- For scHi-C data, we require a .txt file containing 5kb intra-chromatin contacts, with four columns in the following format: chr  loc1  loc2  counts
+- For chromatin structure data, we require a matrix containing all pairwise distance between all loci.
