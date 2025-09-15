@@ -170,3 +170,8 @@ CrossMap bed hg19ToHg38.over.chain.gz hichipdb_GM12878_H3K27ac_hg38_2.bedpe hich
 <p align="center">
 <img src="image/hichidb.png" alt="HiChIPdb" title="HiChIPdb" width="600" />
 </p>
+
+
+<!-- GETTING STARTED -->
+## Contributing Your Data
+We warmly welcome users who wish to contribute their new datasets to be integrated into ChromPolymerDB. We accept a wide range of data types, including deeply sequenced bulk Hi-C (hg38), scHi-C, as well as other chromatin structure data generated from simulations or imaging. 
